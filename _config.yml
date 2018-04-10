@@ -1,6 +1,6 @@
 # Site settings
 title: eiarhabi's  blog
-SEOTitle: eiarhabi's blog
+SEOTitle: eiarhabi
 header-img: img/post-bg-desk.jpg
 description: "And miles to go before I sleep."
 keyword: "eiarhabi"
@@ -19,7 +19,7 @@ sidebar: true                           # whether or not using Sidebar.
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     eiarhabi
-#github_username:    
+github_username:    eiarhabi
 #facebook_username:  
 #jianshu_username:   
 #twitter_username:   qiubaiying
@@ -75,8 +75,8 @@ gitalk:
 # Baidu Analytics
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto           # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto           # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
