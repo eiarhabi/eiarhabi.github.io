@@ -10,7 +10,6 @@ tags:
 	-Credit Card
 ---
 
-
 ### AMEX
 
 * [Blue Cash Everyday(BCE)](http://refer.amex.us/MINGYGGZO3?XLINK=MYCP)
